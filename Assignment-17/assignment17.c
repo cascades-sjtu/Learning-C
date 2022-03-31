@@ -2,14 +2,10 @@
 
 void hello(void);
 
-int main(void)
-{
-	hello();
+int main(void) {
+  hello();
 
-	return 0;
+  return 0;
 }
 
-void hello(void)
-{
-	printf("Hello, World!\n");
-}
+void hello(void) { printf("Hello, World!\n"); }

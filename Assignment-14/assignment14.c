@@ -1,12 +1,11 @@
 #include <stdio.h>
 
-int main(void)
-{
-	int number = 21;
+int main(void) {
+  int number = 21;
 
-	int *ptr = &number;
+  int *ptr = &number;
 
-	printf("The value of our pointer is: %p\n", ptr);
+  printf("The value of our pointer is: %p\n", ptr);
 
-	return 0;
+  return 0;
 }
