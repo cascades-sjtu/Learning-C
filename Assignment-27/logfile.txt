@@ -1,0 +1,7 @@
+Process 78479:
+GET / HTTP/1.1
+Host: www.sjtu.edu.cn
+User-Agent: curl/7.68.0
+Accept: */*
+
+Ñgäguuß­¾hUÌ´NÙµTdÏoêåä¨9wge/xŒÈ”ª÷$ü€ û¦f“G¢ağü‰IP+‡^Ç‹ã‡"t”ßÏI·9†!î¡_•'Êhœ×&óLpl¦‚z"tÊH’ÛUîÛo„BÅo‡â_Ú%U½ıqÂe<Å¹'úRVš³GkÆ¼ªñ^ıâèaçÿÌÚ[Òşí¤sÁ˜˜x_Áç½ÎÇå7œ0c2´Ò)ƒ
